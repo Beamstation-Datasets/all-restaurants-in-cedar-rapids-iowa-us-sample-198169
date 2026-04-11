@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a0e8b68a-1f81-4b22-aba7-4293da59ca0e",
+  "id_short": 198169,
+  "published_at": "2026-04-11T07:05:35Z",
+  "repo_name": "all-restaurants-in-cedar-rapids-iowa-us-sample-198169",
+  "sample_asset_name": "beamstation_198169_restaurants-us-ia_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/198169/beamstation_198169_restaurants-us-ia_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "4ea26b066fe470aa91c06d755bc3b89209a93e26e9af979e61720429de47dfc0",
+  "sample_size_bytes": 112297,
+  "total_records": 443
+}
