@@ -1,6 +1,6 @@
 # All Restaurants in Cedar Rapids, Iowa, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 48 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `198169` |
 | Location | Cedar Rapids |
 | Category | Restaurants |
-| Full dataset size | 443 records |
-| Free sample size | 25 records (5.64%) |
-| Last export | 2026-03-31T16:49:53.214075+00:00 |
+| Full dataset size | 488 records |
+| Free sample size | 48 records (9.84%) |
+| Last export | 2026-04-14T17:40:45.355144+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-cedar-rapids-iowa-us-sample-198169/releases/download/sample-latest/beamstation_198169_restaurants-us-ia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
